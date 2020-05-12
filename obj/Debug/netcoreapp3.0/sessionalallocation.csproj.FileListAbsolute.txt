@@ -1,0 +1,6 @@
+D:\Sem_4\ARP\sessionalallocation\obj\Debug\netcoreapp3.0\sessionalallocation.csprojAssemblyReference.cache
+D:\Sem_4\ARP\sessionalallocation\obj\Debug\netcoreapp3.0\sessionalallocation.csproj.CoreCompileInputs.cache
+D:\Sem_4\ARP\sessionalallocation\obj\Debug\netcoreapp3.0\sessionalallocation.MvcApplicationPartsAssemblyInfo.cs
+D:\Sem_4\ARP\sessionalallocation\obj\Debug\netcoreapp3.0\sessionalallocation.MvcApplicationPartsAssemblyInfo.cache
+D:\Sem_4\ARP\sessionalallocation\obj\Debug\netcoreapp3.0\sessionalallocation.AssemblyInfoInputs.cache
+D:\Sem_4\ARP\sessionalallocation\obj\Debug\netcoreapp3.0\sessionalallocation.AssemblyInfo.cs
